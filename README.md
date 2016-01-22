@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 Learning Rails
 ==
@@ -33,3 +34,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+# learn-rails
+First learning project - learn rails
+>>>>>>> 147c6348d722e74317fdb8d935cea96beb87f2a9
